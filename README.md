@@ -1,2 +1,2 @@
 # FinTrack
-Aplicação web de controle financeiro pessoal
+Aplicação para estudo web de controle financeiro pessoal
